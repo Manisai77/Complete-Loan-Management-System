@@ -1,1 +1,0 @@
-# Complete-Loan-Management-System
